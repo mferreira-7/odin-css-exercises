@@ -1,0 +1,20 @@
+.odd {
+    background-color: rgb(245, 4, 89);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#two {
+    color: rgb(2, 16, 245);
+    font-size: 36px;
+}
+
+/* should've used a universal font size of 24 then re-assigned for #two individually */
+#three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgb(92, 245, 10);
+    font-size: 24px;
+    font-weight: 700;
+}
