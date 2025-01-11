@@ -1,0 +1,14 @@
+/* should've used both ids incase i add more html elements in the future */
+* {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.blackButt {
+    background-color: black;
+    color: antiquewhite;
+}
+
+.yellowButt {
+    background-color: yellow;
+}
